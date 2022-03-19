@@ -1,4 +1,4 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+
 
 # Twitter - Part II
 
@@ -23,6 +23,10 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
+https://user-images.githubusercontent.com/56946868/159105804-0a7ad153-0118-4957-977a-404b2d0bd225.mov
+
 
 
 
